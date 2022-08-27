@@ -1,4 +1,4 @@
-i#include "sort.h"
+#include "sort.h"
 
 /**
  * list_len - function returns length of list
